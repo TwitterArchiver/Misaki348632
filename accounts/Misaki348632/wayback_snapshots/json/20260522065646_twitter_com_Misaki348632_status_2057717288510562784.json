@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2057717288510562784",
+    "created_at": "2026-05-22T06:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057717288510562784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589967071470915585",
+          "start": 3,
+          "username": "zovoe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057717288510562784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057419212398948799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zovoe_: 女用玩具界能不能来个秦始皇统一一下充电器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2057717288510562784",
+        "created_at": "2026-05-22T06:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057717288510562784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589967071470915585",
+              "start": 3,
+              "username": "zovoe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057717288510562784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057419212398948799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zovoe_: 女用玩具界能不能来个秦始皇统一一下充电器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589967071470915585",
+        "conversation_id": "2057419212398948799",
+        "created_at": "2026-05-21T11:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057419212398948799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057419212398948799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 207688,
+          "like_count": 1726,
+          "quote_count": 13,
+          "reply_count": 212,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "女用玩具界能不能来个秦始皇统一一下充电器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，心情暴躁中",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 49,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T13:04:36.000Z",
+        "description": "Pain, danger and love make me real again.",
+        "id": "1589967071470915585",
+        "name": "Zoeee",
+        "pinned_tweet_id": "1914963479620145555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589967253419835396/UL_AVZoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48150,
+          "following_count": 61,
+          "like_count": 693,
+          "listed_count": 128,
+          "media_count": 149,
+          "tweet_count": 643
+        },
+        "username": "zovoe_",
+        "verified": false
+      }
+    ]
+  }
+}

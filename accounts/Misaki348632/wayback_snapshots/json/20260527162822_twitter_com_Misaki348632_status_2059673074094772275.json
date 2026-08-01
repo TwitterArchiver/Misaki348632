@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059673074094772275",
+    "created_at": "2026-05-27T16:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059673074094772275"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059673074094772275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在还有多少药娘可以单人打针，来评论区里报个数呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059673074094772275",
+        "created_at": "2026-05-27T16:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059673074094772275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059673074094772275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有多少药娘可以单人打针，来评论区里报个数呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 98,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 100
+        },
+        "username": "Misaki348632",
+        "verified": false
+      }
+    ]
+  }
+}

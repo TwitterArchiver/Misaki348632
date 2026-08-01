@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2056862971901735077",
+    "created_at": "2026-05-19T22:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056862971901735077"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056862971901735077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也许我也有工作了又要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2056862971901735077",
+        "created_at": "2026-05-19T22:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056862971901735077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056862971901735077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许我也有工作了又要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，心情暴躁中",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Misaki348632",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059129994107089111",
+    "created_at": "2026-05-26T12:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059245261999022345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059245261999022345",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059129994107089111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 不可能做到的哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059129991619833856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN_0VDacAAY54q.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059129994107089111",
+        "created_at": "2026-05-26T12:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059245261999022345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059245261999022345",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059129994107089111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 不可能做到的哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059129991619833856"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "2059129994107089111",
+        "created_at": "2026-05-26T04:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059129994107089111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0QaHF2oak",
+              "end": 52,
+              "expanded_url": "https://x.com/wngy189327/status/2059129994107089111/photo/1",
+              "media_key": "3_2059129991619833856",
+              "start": 29,
+              "url": "https://t.co/I0QaHF2oak"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2059129994107089111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4913,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是真的假的？有人说是替来但真是替来也行，就怕是骗子。 https://t.co/I0QaHF2oak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，心情暴躁中",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 88,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2041862853091864617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 856,
+          "like_count": 10036,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1503
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

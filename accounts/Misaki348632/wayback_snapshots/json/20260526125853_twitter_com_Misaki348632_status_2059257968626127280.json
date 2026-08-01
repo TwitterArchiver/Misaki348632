@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059150107732521457",
+    "created_at": "2026-05-26T12:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059257968626127280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1047171322990587904",
+          "start": 0,
+          "username": "Kawasaki_Fritz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059257968626127280",
+    "in_reply_to_user_id": "1047171322990587904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059188767068684683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawasaki_Fritz 你说的对，可是我是个不知悔改的人也不知道怎么改，我会用同样的相处方式一遍遍伤害别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059150107732521457",
+        "created_at": "2026-05-26T12:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059257968626127280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1047171322990587904",
+              "start": 0,
+              "username": "Kawasaki_Fritz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059257968626127280",
+        "in_reply_to_user_id": "1047171322990587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188767068684683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawasaki_Fritz 你说的对，可是我是个不知悔改的人也不知道怎么改，我会用同样的相处方式一遍遍伤害别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1047171322990587904",
+        "conversation_id": "2059150107732521457",
+        "created_at": "2026-05-26T08:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059188767068684683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059188767068684683",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059173800969904461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 也许你的确做了伤害爱你的人的事，曾爱你的人也不再爱你，但只是说明你和他的故事结束了，不代表你就不配得到爱，不代表没有别的人会爱你，你要做的只有不再伤害现在或未来爱你的人，也希望现在或未来爱你的人不会伤害你（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 91,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T17:07:53.000Z",
+        "description": "エロが好き エロい人も好き 中国人です、日本語を勉強しています 希望は世界平和 インターナショナルは必ず現実になる！",
+        "id": "1047171322990587904",
+        "location": "People's Republic of China",
+        "name": "E❌usiai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497673750708224/0m3YkIht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 249,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 439
+        },
+        "username": "Kawasaki_Fritz",
+        "verified": false
+      }
+    ]
+  }
+}

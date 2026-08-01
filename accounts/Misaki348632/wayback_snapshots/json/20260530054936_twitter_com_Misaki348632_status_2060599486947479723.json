@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059673074094772275",
+    "created_at": "2026-05-30T05:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060599486947479723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612654151988543490",
+          "start": 0,
+          "username": "jianzha34360739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060599486947479723",
+    "in_reply_to_user_id": "1612654151988543490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060385981598241100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianzha34360739 很多人不会哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059673074094772275",
+        "created_at": "2026-05-30T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060599486947479723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612654151988543490",
+              "start": 0,
+              "username": "jianzha34360739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060599486947479723",
+        "in_reply_to_user_id": "1612654151988543490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385981598241100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianzha34360739 很多人不会哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612654151988543490",
+        "conversation_id": "2059673074094772275",
+        "created_at": "2026-05-29T15:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385981598241100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385981598241100",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059673074094772275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 自己打呀，我往大腿上扎，以前看高手自己往屁股上扎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 123,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 153
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T03:35:18.000Z",
+        "description": "",
+        "id": "1612654151988543490",
+        "location": "Baltimore, MD",
+        "name": "Horosis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985291836441952256/DjzZ3EUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 149,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "username": "jianzha34360739",
+        "verified": false
+      }
+    ]
+  }
+}

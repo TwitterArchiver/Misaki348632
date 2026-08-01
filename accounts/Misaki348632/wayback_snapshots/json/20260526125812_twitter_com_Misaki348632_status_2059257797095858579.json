@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059247934668226888",
+    "created_at": "2026-05-26T12:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059257797095858579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057258409523847168",
+          "start": 0,
+          "username": "Eetmy456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059257797095858579",
+    "in_reply_to_user_id": "2057258409523847168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059257450013032539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eetmy456 陪我打铲子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059247934668226888",
+        "created_at": "2026-05-26T12:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059257797095858579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057258409523847168",
+              "start": 0,
+              "username": "Eetmy456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059257797095858579",
+        "in_reply_to_user_id": "2057258409523847168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059257450013032539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eetmy456 陪我打铲子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057258409523847168",
+        "conversation_id": "2059247934668226888",
+        "created_at": "2026-05-26T12:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059257450013032539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059257450013032539",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059247934668226888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 我可以呀姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 91,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T00:34:08.000Z",
+        "description": "",
+        "id": "2057258409523847168",
+        "name": "Eetmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057259016657784832/6J2Gm9gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "Eetmy456",
+        "verified": false
+      }
+    ]
+  }
+}

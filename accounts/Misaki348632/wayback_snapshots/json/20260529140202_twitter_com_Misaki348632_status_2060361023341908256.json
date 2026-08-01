@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2060295659597840588",
+    "created_at": "2026-05-29T14:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060361023341908256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870561542821089280",
+          "start": 0,
+          "username": "wlfkfwnd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060361023341908256",
+    "in_reply_to_user_id": "1870561542821089280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060295659597840588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlfkfwnd3 其实我作为一个中国人，我觉得七星更好抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2060295659597840588",
+        "created_at": "2026-05-29T14:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060361023341908256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870561542821089280",
+              "start": 0,
+              "username": "wlfkfwnd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361023341908256",
+        "in_reply_to_user_id": "1870561542821089280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060295659597840588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlfkfwnd3 其实我作为一个中国人，我觉得七星更好抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870561542821089280",
+        "conversation_id": "2060295659597840588",
+        "created_at": "2026-05-29T09:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060295659597840588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060295659597840588",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1539,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "중국 담배 댈구 가능한 사람 있나??"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 118,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 148
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T20:06:53.000Z",
+        "description": "@tlwlqkf111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "tlwlqkf111"
+              }
+            ]
+          }
+        },
+        "id": "1870561542821089280",
+        "name": "xowlfkx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 36,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "wlfkfwnd3",
+        "verified": false
+      }
+    ]
+  }
+}

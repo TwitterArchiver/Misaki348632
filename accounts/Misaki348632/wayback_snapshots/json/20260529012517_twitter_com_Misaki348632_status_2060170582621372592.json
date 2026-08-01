@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059519407194538115",
+    "created_at": "2026-05-29T01:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060170582621372592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060170582621372592",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059519407194538115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 联邦制是好文明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059519407194538115",
+        "created_at": "2026-05-29T01:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060170582621372592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060170582621372592",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059519407194538115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 联邦制是好文明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667851059346427914",
+        "conversation_id": "2059519407194538115",
+        "created_at": "2026-05-27T06:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059519407194538115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2059275334634365082",
+              "start": 68,
+              "url": "https://t.co/VsAlpi4CVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059519407194538115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20749,
+          "like_count": 81,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059275334634365082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说现任药娘皇帝是谁，你们要不要先分区域选举一个地区性皇帝出来，比如选举一个北京的呀，再一个上海的呀，再一个深圳的，再一个成都的这样 https://t.co/VsAlpi4CVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 116,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 135
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 874,
+          "like_count": 88994,
+          "listed_count": 4,
+          "media_count": 1119,
+          "tweet_count": 15263
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      }
+    ]
+  }
+}

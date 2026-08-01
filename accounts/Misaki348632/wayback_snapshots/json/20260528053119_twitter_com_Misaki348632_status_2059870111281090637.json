@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059673074094772275",
+    "created_at": "2026-05-28T05:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059870111281090637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059870111281090637",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059807457623638156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 什么意思？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059673074094772275",
+        "created_at": "2026-05-28T05:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059870111281090637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059870111281090637",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059807457623638156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 什么意思？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2059673074094772275",
+        "created_at": "2026-05-28T01:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059807457623638156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059807457623638156",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059673074094772275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 沐桃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 102,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 110
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059457055639879686/3fa8Ch4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 66,
+          "like_count": 3421,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 3033
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059237427248767374",
+    "created_at": "2026-05-26T12:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059249830913061114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587669006189666304",
+          "start": 0,
+          "username": "ur_my_heiroin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059249830913061114",
+    "in_reply_to_user_id": "1587669006189666304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059237427248767374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ur_my_heiroin 这很戳人xp啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059237427248767374",
+        "created_at": "2026-05-26T12:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059249830913061114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587669006189666304",
+              "start": 0,
+              "username": "ur_my_heiroin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059249830913061114",
+        "in_reply_to_user_id": "1587669006189666304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059237427248767374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ur_my_heiroin 这很戳人xp啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587669006189666304",
+        "conversation_id": "2059237427248767374",
+        "created_at": "2026-05-26T11:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059237427248767374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059237427248767374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢小女男孩和小男女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T04:52:44.000Z",
+        "description": "eurt si em tuoba yas yeht gnihtyreve",
+        "id": "1587669006189666304",
+        "location": "Toronto, Ontario",
+        "name": "heiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059232322432712704/9r8Gzh6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1169,
+          "like_count": 17984,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 3509
+        },
+        "username": "ur_my_heiroin",
+        "verified": false
+      }
+    ]
+  }
+}

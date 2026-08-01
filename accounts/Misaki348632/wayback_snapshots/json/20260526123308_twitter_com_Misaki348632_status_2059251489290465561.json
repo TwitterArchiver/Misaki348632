@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059184592679231757",
+    "created_at": "2026-05-26T12:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059251489290465561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 30,
+          "id": "1518404201168007168",
+          "start": 16,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059251489290465561",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059184592679231757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw @godspeedyou50 他就是这样恶心的家伙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1855,
+        "media_key": "3_2059184582763896833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOxd86aYAEpOLW.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059184582776508416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOxd89a0AAfiUJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2059184582772260864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOxd88aAAA0aJX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2015,
+        "media_key": "3_2059184582768099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOxd87agAAViIm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059184592679231757",
+        "created_at": "2026-05-26T12:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059251489290465561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 30,
+              "id": "1518404201168007168",
+              "start": 16,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059251489290465561",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059184592679231757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @godspeedyou50 他就是这样恶心的家伙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059184582763896833",
+            "3_2059184582776508416",
+            "3_2059184582772260864",
+            "3_2059184582768099328"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059184592679231757",
+        "created_at": "2026-05-26T08:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059184592679231757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1518404201168007168",
+              "start": 15,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Frd7Wfu6tg",
+              "end": 53,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059184592679231757/photo/1",
+              "media_key": "3_2059184582763896833",
+              "start": 30,
+              "url": "https://t.co/Frd7Wfu6tg"
+            },
+            {
+              "display_url": "pic.x.com/Frd7Wfu6tg",
+              "end": 53,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059184592679231757/photo/1",
+              "media_key": "3_2059184582776508416",
+              "start": 30,
+              "url": "https://t.co/Frd7Wfu6tg"
+            },
+            {
+              "display_url": "pic.x.com/Frd7Wfu6tg",
+              "end": 53,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059184592679231757/photo/1",
+              "media_key": "3_2059184582772260864",
+              "start": 30,
+              "url": "https://t.co/Frd7Wfu6tg"
+            },
+            {
+              "display_url": "pic.x.com/Frd7Wfu6tg",
+              "end": 53,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2059184592679231757/photo/1",
+              "media_key": "3_2059184582768099328",
+              "start": 30,
+              "url": "https://t.co/Frd7Wfu6tg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059184592679231757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是一期杰森霸凌我的控诉推文😭@godspeedyou50 https://t.co/Frd7Wfu6tg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 411,
+          "like_count": 952,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 294,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2448
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

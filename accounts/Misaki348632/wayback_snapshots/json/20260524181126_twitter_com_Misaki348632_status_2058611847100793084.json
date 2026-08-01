@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2058226761926914181",
+    "created_at": "2026-05-24T18:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058611847100793084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558048751302103041",
+          "start": 0,
+          "username": "ching__101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058611847100793084",
+    "in_reply_to_user_id": "1558048751302103041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058526108325495014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ching__101 太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2058226761926914181",
+        "created_at": "2026-05-24T18:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058611847100793084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558048751302103041",
+              "start": 0,
+              "username": "ching__101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058611847100793084",
+        "in_reply_to_user_id": "1558048751302103041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058526108325495014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ching__101 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558048751302103041",
+        "conversation_id": "2058226761926914181",
+        "created_at": "2026-05-24T12:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058526108325495014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058526108325495014",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058398731394015248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 藥店就能直接買了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，心情暴躁中",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:12:47.000Z",
+        "description": "あなたの気に入ってくれてありがとう",
+        "id": "1558048751302103041",
+        "location": "🚪52僅好友 88朋友圈",
+        "name": "離禾",
+        "pinned_tweet_id": "1931836265059803490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3138,
+          "following_count": 53,
+          "like_count": 318,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 789
+        },
+        "username": "ching__101",
+        "verified": true
+      }
+    ]
+  }
+}

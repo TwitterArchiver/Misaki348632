@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056637203338633216",
+    "conversation_id": "2059871732232769804",
+    "created_at": "2026-05-28T12:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059981792128692697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 21,
+          "id": "1949348575378644992",
+          "start": 11,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059981792128692697",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059943963193417925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me @Ace_Purin 哇哦，我来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637203338633216",
+        "conversation_id": "2059871732232769804",
+        "created_at": "2026-05-28T12:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981792128692697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 21,
+              "id": "1949348575378644992",
+              "start": 11,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981792128692697",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059943963193417925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me @Ace_Purin 哇哦，我来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2059871732232769804",
+        "created_at": "2026-05-28T10:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059943963193417925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 24,
+              "id": "2056637203338633216",
+              "start": 11,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943963193417925",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059925341666512898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin @Misaki348632 好滴谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，希望还有人认识我，如果有大姐姐找我玩我会很开心，88/158🚪，私信可以解锁化学物质",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 108,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 118
+        },
+        "username": "Misaki348632",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 1147,
+          "like_count": 6582,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 6536
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 245,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}
