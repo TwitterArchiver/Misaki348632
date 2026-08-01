@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T23:21:43",
+  "last_updated": "2026-08-01T23:22:17",
   "html": {
     "https://web.archive.org/web/20260519182737if_/https://twitter.com/Misaki348632/status/2056803980609728860": {
       "status": "done",
@@ -1181,9 +1181,9 @@
         "20260526041245_twitter_com_Misaki348632_status_2059125560685867075.json",
         "20260528052804_twitter_com_Misaki348632_status_2059869291508531271.json"
       ],
-      "last_updated": "2026-08-01T23:07:31",
+      "last_updated": "2026-08-01T23:21:57",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260528052804if_/https://pbs.twimg.com/profile_images/2058024983323111424/BD7ezTVu_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2025325012983709699/E2wHwF0E_normal.jpg": {
       "status": "done",
@@ -1282,9 +1282,9 @@
       "referenced_by": [
         "20260526122633_twitter_com_Misaki348632_status_2059249830913061114.json"
       ],
-      "last_updated": "2026-08-01T23:07:31",
+      "last_updated": "2026-08-01T23:22:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260526122633if_/https://pbs.twimg.com/profile_images/2059232322432712704/9r8Gzh6Q_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg": {
       "status": "done",
@@ -1337,9 +1337,9 @@
         "20260528053026_twitter_com_Misaki348632_status_2059869886646775874.json",
         "20260528053041_twitter_com_Misaki348632_status_2059869952581185593.json"
       ],
-      "last_updated": "2026-08-01T23:07:31",
+      "last_updated": "2026-08-01T23:22:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260528053041if_/https://pbs.twimg.com/profile_images/2058165199220473856/GNr4aFnG_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1927212376597635072/XMcW41SO_normal.jpg": {
       "status": "done",
@@ -1370,9 +1370,9 @@
       "referenced_by": [
         "20260528052849_twitter_com_Misaki348632_status_2059869480663298213.json"
       ],
-      "last_updated": "2026-08-01T23:07:31",
+      "last_updated": "2026-08-01T23:22:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260528052849if_/https://pbs.twimg.com/profile_images/2058197576596500480/2VpSxr-E_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg": {
       "status": "done",
@@ -1513,14 +1513,14 @@
       "last_updated": "2026-08-01T23:07:29"
     },
     "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260529135852_twitter_com_Misaki348632_status_2060360225891536994.json",
         "20260529140202_twitter_com_Misaki348632_status_2060361023341908256.json"
       ],
-      "last_updated": "2026-08-01T23:07:33",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-01T23:22:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5aee300e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg": {
       "status": "done",
@@ -3329,7 +3329,7 @@
       "last_updated": "2026-08-01T23:07:28"
     },
     "20260529135852_twitter_com_Misaki348632_status_2060360225891536994.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3339,10 +3339,10 @@
           "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T23:07:34"
+      "last_updated": "2026-08-01T23:22:17"
     },
     "20260529140202_twitter_com_Misaki348632_status_2060361023341908256.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3351,7 +3351,7 @@
           "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T23:07:34"
+      "last_updated": "2026-08-01T23:22:17"
     },
     "20260529141258_twitter_com_Misaki348632_status_2060363775916786119.json": {
       "status": "done",
