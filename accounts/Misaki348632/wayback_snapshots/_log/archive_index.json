@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-17T03:15:47",
+  "last_updated": "2026-08-17T03:17:05",
   "html": {
     "https://web.archive.org/web/20260519182737if_/https://twitter.com/Misaki348632/status/2056803980609728860": {
       "status": "done",
@@ -1518,9 +1518,9 @@
         "20260529135852_twitter_com_Misaki348632_status_2060360225891536994.json",
         "20260529140202_twitter_com_Misaki348632_status_2060361023341908256.json"
       ],
-      "last_updated": "2026-08-01T23:22:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5aee300e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-17T03:17:05",
+      "last_reason": "HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg": {
       "status": "done",
