@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-09T17:48:37",
+  "last_updated": "2026-09-09T17:48:52",
   "html": {
     "https://web.archive.org/web/20260519182737if_/https://twitter.com/Misaki348632/status/2056803980609728860": {
       "status": "done",
@@ -1513,14 +1513,14 @@
       "last_updated": "2026-08-01T23:07:29"
     },
     "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260529135852_twitter_com_Misaki348632_status_2060360225891536994.json",
         "20260529140202_twitter_com_Misaki348632_status_2060361023341908256.json"
       ],
-      "last_updated": "2026-08-17T03:17:05",
-      "last_reason": "HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
-      "miss_count": 4
+      "last_updated": "2026-09-09T17:48:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260529140202if_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg": {
       "status": "done",
@@ -3329,7 +3329,7 @@
       "last_updated": "2026-08-01T23:07:28"
     },
     "20260529135852_twitter_com_Misaki348632_status_2060360225891536994.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3339,11 +3339,11 @@
           "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:48:36",
+      "last_updated": "2026-09-09T17:48:52",
       "miss_count": 4
     },
     "20260529140202_twitter_com_Misaki348632_status_2060361023341908256.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3352,7 +3352,7 @@
           "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:48:36",
+      "last_updated": "2026-09-09T17:48:52",
       "miss_count": 4
     },
     "20260529141258_twitter_com_Misaki348632_status_2060363775916786119.json": {
